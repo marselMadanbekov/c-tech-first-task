@@ -1,4 +1,4 @@
-package ctech.firsttask.ctechfirsttask;
+package ctech.firsttask;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
